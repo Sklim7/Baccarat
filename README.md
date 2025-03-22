@@ -35,7 +35,6 @@ This project is a full-featured simulation of the Baccarat card game using Pytho
 | File Name              | Description                                |
 |------------------------|--------------------------------------------|
 | `baccarat_results.csv` | All rounds with hands, totals, and results |
-| `bead_road.csv`        | Bead Road matrix for visual tracking       |
 
 ---
 
