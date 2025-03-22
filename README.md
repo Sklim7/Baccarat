@@ -1,6 +1,6 @@
 # 🃏 Baccarat Simulator in Python
 
-This project is a full-featured simulation of the Baccarat card game using Python. It models hand drawing, total calculations, third-card rules, and result tracking across thousands of rounds. The simulator also generates a **Bead Road** chart (a traditional casino-style visualization) and saves all game outcomes to CSV files for further analysis.
+This project is a full-featured simulation of the Baccarat card game using Python. It models hand drawing, total calculations, third-card rules, and result tracking across thousands of rounds. 
 
 ---
 
@@ -9,7 +9,6 @@ This project is a full-featured simulation of the Baccarat card game using Pytho
 - 🎴 **Card Drawing Logic** — Simulates real Baccarat card values (Ace = 1, Face cards = 0).
 - ♠️ **Player & Banker Rules** — Applies third-card rules per official Baccarat guidelines.
 - 📊 **Result Logging** — Stores each round's hands, totals, and winner in a CSV.
-- 📈 **Bead Road Generation** — Outputs a classic Bead Road matrix for pattern recognition.
 - 💾 **CSV Output** — Easily export and analyze results in Excel, Python, or data tools.
 
 ---
